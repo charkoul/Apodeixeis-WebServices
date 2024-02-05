@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: gr.apodeixeis.web.services.ApodeixeisWebServices.ApodeixeisWebServicesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.239 s -- in gr.apodeixeis.web.services.ApodeixeisWebServices.ApodeixeisWebServicesApplicationTests
